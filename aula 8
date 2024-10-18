@@ -1,0 +1,6 @@
+.contato__nome::____________ {
+    font-family: var(--fonte-principal);
+    color: var(--azul);
+    _______________: url("../img/cartinha.svg") no-________;
+    padding-left: 2em;
+}
